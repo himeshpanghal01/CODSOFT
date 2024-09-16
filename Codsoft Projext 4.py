@@ -1,5 +1,4 @@
 import random
-from pickle import PROTO
 
 CHOICE=["rock","paper","scissors"]
 game_continue=True
